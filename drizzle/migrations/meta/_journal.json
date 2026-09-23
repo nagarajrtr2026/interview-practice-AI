@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790008741249,
+      "tag": "0000_create_interviews",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790009933304,
+      "tag": "0001_protect_demo_rows",
+      "breakpoints": true
+    }
+  ]
+}
